@@ -1,0 +1,61 @@
+* {
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.5rem;
+    margin-top: .83rem;
+    margin-bottom: .83rem;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.17rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+header img {
+    max-width: 8rem;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+.above-fold{
+    background-image: url("img/johny-goerend-pnigODapPek-unsplash.jpg");
+    height: 40rem;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.af-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.above-fold-box {
+    background-color: white;
+    width: 40%;
+}
+
+
